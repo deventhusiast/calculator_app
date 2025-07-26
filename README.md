@@ -1,2 +1,2 @@
 # calculator_app
-React project for building basic calculaltor
+Odin project task for building basic calculaltor
